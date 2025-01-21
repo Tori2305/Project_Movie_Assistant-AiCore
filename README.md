@@ -3,7 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage) 
+- [Usage](#usage)
+- [FullCode](#FullCode)
    
 ## Introduction
 
@@ -81,7 +82,9 @@ To use the movie recommendation system, follow these steps:
 
 
 
+## FullCode
 
+This is just a high level view of all the tasks within this project to see full code you can find it on the [VSCode file here](
 
 
    
