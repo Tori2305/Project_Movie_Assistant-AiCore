@@ -11,7 +11,7 @@
 This project is part of the AI Core curriculum and aims to build a movie recommendation system. Users can select a genre and get a list of recommended movies in that genre. ## Features - Load movie data from a JSON file - Display unique genres available in the dataset - Allow users to select a genre and display movies in that genre - Display detailed information about a selected movie 
 
 ## Features
-- Load movie data from a JSON file.
+- Load movie data from a [JSON file](Movie-Recommendation.json)
 - Display unique genres available in the dataset.
 - Allow users to select a genre and display movies in that genre.
 - Display detailed information about a selected movie.
